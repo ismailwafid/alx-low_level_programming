@@ -3,5 +3,6 @@
 
 int _putchar(char c)i;
 void print_string (void);
+void print_alphabet(void);
 
 #endif
